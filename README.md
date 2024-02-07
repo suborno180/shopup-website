@@ -1,6 +1,6 @@
 # Welcome to ShopUp!
 
-![ShopUp Logo](https://suborno180.github.io/shopup-website/images/logo.png)
+![ShopUp Logo](https://d118vismjsp9sl.cloudfront.net/web6.0/img/vector/logo-shopup.svg)
 
 Welcome to ShopUp, your one-stop destination for all your shopping needs! Whether you're looking for trendy fashion items, cutting-edge electronics, or unique gifts, we've got you covered.
 
