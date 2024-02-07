@@ -33,7 +33,7 @@ We value your feedback! If you have any suggestions, comments, or questions, ple
 
 ### Contributors
 
-- Suborno180 ([@johndoe](https://github.com/suborno180)
+- Github ([@suborno180](https://github.com/suborno180)
 
 ### License
 
