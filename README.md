@@ -23,18 +23,17 @@ Ready to start shopping? Visit our website [here](https://suborno180.github.io/s
 ### Connect With Us
 
 Stay updated on the latest news, promotions, and product releases by following us on social media:
-- [Twitter](https://twitter.com/shopup)
-- [Facebook](https://www.facebook.com/shopup)
-- [Instagram](https://www.instagram.com/shopup)
+- [Twitter](https://twitter.com/Suborno_dev)
+- [Facebook](https://www.facebook.com/suborno.dev)
+- [Instagram](https://www.instagram.com/subono.dev)
 
 ### Feedback
 
-We value your feedback! If you have any suggestions, comments, or questions, please don't hesitate to [contact us](mailto:shopup@example.com). Your input helps us improve our services and enhance your shopping experience.
+We value your feedback! If you have any suggestions, comments, or questions, please don't hesitate to [contact us](mailto:suborno.dev@gmail.com). Your input helps us improve our services and enhance your shopping experience.
 
 ### Contributors
 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
+- Suborno180 ([@johndoe](https://github.com/suborno180)
 
 ### License
 
