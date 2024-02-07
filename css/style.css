@@ -1,0 +1,333 @@
+/* tablet screens */
+/* for mobile screen wide */
+/* for mobile screen small */
+#newsSlider-customize-thumbnails {
+  display: flex;
+}
+
+.tns-nav-active {
+  background-color: #979797;
+}
+
+.pagination-dot {
+  margin: 5px;
+  height: 10px;
+  width: 10px;
+  border: solid 1.7px #979797;
+  border-radius: 100%;
+}
+
+.blogs__header {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.blog-card-wrapper {
+  box-shadow: 0 2px 8px 0 rgba(26, 26, 26, 0.1);
+  border-radius: 8px;
+  margin: 10px;
+  background-color: white;
+}
+
+.blog-card {
+  text-decoration: none;
+  color: inherit;
+  border-radius: 10px;
+}
+.blog-card .blog-header {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+  padding-bottom: 12px;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+.blog-card .blog-text {
+  padding-bottom: 2em;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #979797;
+}
+
+.header-banner-no-link {
+  color: #979797;
+  text-decoration: none !important;
+  margin-top: 5px;
+  font-size: 16px;
+  line-height: 1.38;
+}
+.header-banner-no-link:visited {
+  color: #979797;
+  text-decoration: none !important;
+}
+
+.serviceScreen {
+  padding-top: 0px;
+  padding-bottom: 88px;
+}
+
+.serviceScreen__slider {
+  padding-top: 0px;
+}
+.serviceScreen__slider a {
+  text-decoration: none;
+}
+
+.reseller-logo {
+  width: 100%;
+  height: 105px;
+  margin: 0;
+}
+
+.redx-logo {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 40px;
+  width: auto;
+}
+
+.what-is-shopup-squiqly {
+  width: 160px;
+  height: auto;
+  margin-top: -10px;
+}
+
+.mainScreen__cta-links {
+  justify-content: flex-start !important;
+}
+.mainScreen__cta-links::after {
+  background-image: none !important;
+}
+.mainScreen__cta-links::before {
+  left: calc(43% - 5px) !important;
+}
+
+.mainScreen__cta-link {
+  width: 40% !important;
+}
+.mainScreen__cta-link img {
+  width: auto;
+  max-height: 80px;
+}
+
+.redx-cta-link {
+  margin-left: 40px;
+}
+
+html {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+div {
+  font-family: "Lato", sans-serif;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+}
+
+.squigly-line-vertical {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 54%;
+  transform: translateY(-50%) rotate(180deg);
+  width: 7px;
+  height: 58px;
+  background-image: url("../img/vector/left-zigzag.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  right: calc(33% - 5px);
+}
+
+.eloanScreen__content::before {
+  content: "REDX";
+  color: #f0f0f0;
+}
+
+.resellerScreen__bg-text {
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.07);
+}
+
+.pressScreen {
+  background-color: #F8F8F8;
+  padding-top: 50px;
+}
+
+.rotate-right-mobile {
+  transform: none;
+}
+
+.mainScreen {
+  padding-top: 0px;
+}
+
+.testimonials__info {
+  margin-top: 0px;
+}
+
+.what-is-shopup {
+  color: #444;
+  font-size: 3em;
+  font-weight: 200;
+  margin-top: 1em;
+}
+
+.resellerScreen__slider {
+  bottom: 0 !important;
+}
+
+.baki-logo {
+  margin-bottom: 3px;
+  padding-top: 10px;
+}
+
+.mokam-logo {
+  height: 60px;
+}
+
+.pressScreen__press-link {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 767px) {
+  .redx-logo {
+    width: 130px;
+    height: 45px;
+  }
+  .reseller-logo {
+    height: 75px;
+  }
+  .mainScreen__cta-links::after {
+    right: calc(31% - 5px + 24px);
+  }
+  .testimonials__photo {
+    width: 70%;
+    height: 70%;
+  }
+  .testimonials__text {
+    font-size: 1em;
+  }
+  .what-is-shopup {
+    font-size: 32px !important;
+  }
+  .what-is-shopup-squiqly {
+    margin-top: 0px !important;
+  }
+  .blog-text {
+    display: none;
+  }
+  .blog-header {
+    padding-top: 1em !important;
+    padding-bottom: 1.2em !important;
+    font-size: 1.1em !important;
+  }
+}
+@media screen and (min-width: 760px) and (max-width: 1024px) {
+  .service-slider-pagination {
+    display: none !important;
+  }
+  .mainScreen__rotating-image {
+    top: 30vh !important;
+    right: -40px;
+    width: 350px;
+    height: 350px;
+  }
+  .mainScreen {
+    min-height: 50vh;
+  }
+}
+@media only screen and (min-width: 760px) {
+  .serviceScreen .swiper-slide {
+    width: 50% !important;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .mainScreen__rotating-image {
+    width: 340px;
+    height: 340px;
+    top: 60vh;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .mainScreen__header {
+    font-size: 1.8em;
+  }
+  .header-banner-img-first img {
+    height: 50px !important;
+  }
+  .redx-logo {
+    height: 30px !important;
+  }
+  .mainScreen__rotating-image {
+    height: 250px;
+    width: 250px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .rotate-right-mobile {
+    transform: rotate(5deg);
+  }
+  .rotate-left-mobile {
+    transform: rotate(-8deg);
+  }
+}
+@media only screen and (max-width: 420px) {
+  .mainScreen__rotating-image {
+    margin-top: 20px;
+    width: 380px;
+    height: 380px;
+  }
+  .baki-logo {
+    height: 50px !important;
+  }
+  .mokam-logo {
+    height: 50px !important;
+  }
+  .redx-logo {
+    height: 30px !important;
+  }
+  .what-is-shopup {
+    margin-top: 4em !important;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .header-banner-no-link {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .mainScreen__rotating-image {
+    width: 280px;
+    height: 280px;
+  }
+  .mainScreen__subheader {
+    margin-bottom: 20px;
+  }
+  .sm-margin-top-4em {
+    margin-top: 4em;
+  }
+  .pure-hidden-sm {
+    display: none;
+  }
+  .mainScreen__rotating-img {
+    padding-right: 20px !important;
+  }
+  .sm-margin-top-100px {
+    margin-top: 100px !important;
+  }
+}/*# sourceMappingURL=style.css.map */
