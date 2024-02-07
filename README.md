@@ -24,7 +24,7 @@ Ready to start shopping? Visit our website [here](https://suborno180.github.io/s
 
 Stay updated on the latest news, promotions, and product releases by following us on social media:
 - [Twitter](https://twitter.com/Suborno_dev)
-- [Facebook](https://www.facebook.com/suborno.dev)
+- [Facebook](https://www.facebook.com/suborn0.dev)
 - [Instagram](https://www.instagram.com/subono.dev)
 
 ### Feedback
